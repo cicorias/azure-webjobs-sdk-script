@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 public static void Run(string input, out string item, TraceWriter log)
 {
